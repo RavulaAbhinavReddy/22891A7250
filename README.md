@@ -49,5 +49,5 @@ npm start
 ## 📷 Screenshots
 
 ### 🔗 Shortener Page
-![Shortener Page](./screenshots/shortener.png)
+![Shortener Page](./screenshots/shortener.png.png)
 
