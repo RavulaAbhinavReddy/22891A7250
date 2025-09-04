@@ -46,3 +46,8 @@ npm install
 # 4. Start the development server
 npm start
 
+## 📷 Screenshots
+
+### 🔗 Shortener Page
+![Shortener Page](./screenshots/shortener.png)
+
