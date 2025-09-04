@@ -34,7 +34,15 @@ It allows users to shorten URLs, manage them, and view basic statistics.
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
+# 1. Clone the repository
 git clone https://github.com/RavulaAbhinavReddy/22891A7250.git
+
+# 2. Navigate into the project folder
 cd 22891A7250
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm start
+
